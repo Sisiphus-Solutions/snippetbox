@@ -27,3 +27,4 @@ go.work.sum
 
 # Jetbrawins products
 .idea
+.run
